@@ -1,0 +1,17 @@
+Age,Gender,SelfEmployed,FamilyHistory,WorkInterfere,No_of_Employees,RemoteWork,TechCompany,Benefits,CareOptions,WellnessProgram,SeekHelp,Anonymity,Leave,MHConsequence,PHConsequence,Coworkers,Supervisor,MHInterview,PHInterview,MHvsPH,ObsConsequence,WorkHours,SleepHours,StressLevel,model_used,RiskProbability,timestamp
+39,Female,Yes,No,Sometimes,6-25,No,Yes,Yes,Yes,Yes,Yes,Yes,Easy,No,No,Yes,Yes,Yes,Yes,Yes,No,8,6,3,LogisticRegression,53.67,2025-08-26 08:01:27
+28,Male,Yes,Yes,Never,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Easy,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,7,6,LogisticRegression,57.29,2025-08-26 08:06:54
+40,Female,Yes,No,Sometimes,6-25,No,Yes,Yes,No,Yes,Yes,No,Neutral,No,No,Yes,Yes,Yes,Yes,No,Yes,9,6,4,LogisticRegression,56.58,2025-08-26 08:36:39
+29,Female,No,No,Rarely,6-25,Yes,Yes,Yes,No,No,Yes,No,Difficult,No,No,Yes,Yes,Yes,Yes,Yes,No,9,6,4,LogisticRegression,26.19,2025-08-26 08:37:36
+35,Male,No,No,Often,6-25,No,Yes,Yes,No,No,Yes,No,Difficult,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,9,6,LogisticRegression,79.69,2025-08-26 08:45:18
+28,Male,Yes,Yes,Never,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Easy,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,7,6,LogisticRegression,57.29,2025-08-26 13:14:57
+28,Male,Yes,Yes,Never,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Easy,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,7,6,LogisticRegression,57.29,2025-08-26 13:59:57
+28,Male,Yes,Yes,Never,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Easy,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,7,6,LogisticRegression,57.29,2025-08-27 00:35:31
+20,Male,No,No,Sometimes,100-500,No,Yes,No,Yes,Yes,No,Yes,Difficult,Yes,No,Yes,Yes,No,No,No,Yes,7,5,4,LogisticRegression,77.36,2025-08-27 02:36:51
+25,Male,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes,Yes,No,No,Neutral,No,Yes,No,Yes,No,Yes,Yes,No,5,6,3,LogisticRegression,70.43,2025-08-27 22:28:28
+37,Female,Yes,Yes,Never,1-5,Yes,Yes,No,No,No,Yes,Yes,Easy,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,9,7,6,LogisticRegression,55.98,2025-12-18 18:06:32
+28,Male,Yes,Yes,Never,1-5,No,Yes,Yes,Yes,Yes,Yes,Yes,Difficult,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,6,7,6,LogisticRegression,62.44,2025-12-18 19:17:56
+28,Female,No,No,Never,1-5,Yes,Yes,Don't know,Yes,Yes,Yes,Yes,Neutral,No,Yes,Yes,No,Yes,Yes,Yes,Yes,9,7,6,LogisticRegression,41.9,2025-12-19 21:58:38
+28,Male,Yes,Yes,Never,1-5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Easy,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9,7,6,LogisticRegression,57.29,2025-12-19 22:08:31
+28,Male,Yes,Yes,Never,1-5,Yes,Yes,Yes,No,Yes,No,No,Neutral,Yes,No,Yes,Yes,No,Yes,No,Yes,9,9,4,LogisticRegression,54.62,2025-12-20 13:29:44
+28,Male,Yes,Yes,Rarely,26-100,Yes,Yes,Yes,No,No,No,No,Difficult,Yes,Yes,Yes,Yes,No,No,No,Yes,14,9,6,LogisticRegression,67.77,2025-12-20 13:31:17
