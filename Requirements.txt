@@ -1,6 +1,0 @@
-Mental Health in Tech Industry
-Objective: Predict if someone is at risk for mental health issues
-Dataset: OSMI Mental Health Survey
-Model: Logistic Regression / SVM
-Streamlit: Questionnaire → Output: At Risk or Not
-Use_Case: HR well-being tools
